@@ -1,0 +1,28 @@
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\U.Keve\E kurzus\04.12\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\U.Keve\E kurzus\04.26\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\kisso\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
